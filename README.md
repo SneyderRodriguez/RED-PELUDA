@@ -16,7 +16,7 @@ La aplicación está construida utilizando **HTML5**, **CSS3** y **Bootstrap 5**
 
 ---
 
-## ✨ Características de la plataforma web
+## ✨ Características del proyecto
 
 El sitio cuenta con diferentes secciones orientadas a dar a conocer nuestra labor, los peluditos disponibles y los requisitos para adoptar:
 
