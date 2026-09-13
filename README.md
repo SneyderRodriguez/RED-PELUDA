@@ -90,7 +90,7 @@ También puedes utilizar una extensión como **Live Server** en Visual Studio Co
 
 ## 📸 Vista previa
 
-![Vista previa de la plataforma web](https://i.ibb.co/FbTZyjcc/Patitas-Felices.png)
+![Vista previa de la plataforma web](https://i.ibb.co/9m92hq3s/Red-Peluda.png)
 
 ---
 
